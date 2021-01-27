@@ -1,0 +1,10 @@
+7d70ad636a6b09be3c60c71f4174b8fc61baeac0 Merge pull request #128 from aurelijusb/feature/github-actions
+d00dd6019bb11d507ab68baba9d5748b087575da Run on pull requests
+2663ca4452a4a3e38b317afacf6830b57ecc1399 Fix branch names and titles
+5f059e6449f8ab4995bfc2d0b459524acf6affe3 Production ready
+6f6b1dcaa6a2ca78ebddf8d22fa5edbce68f6379 Commit changelog file
+53b6e67ac4644cd3150f80859b27d1edba339ddf Deploy HTML to GitHub pages
+bc6b4c0d1e49df4ded8913bd8378f1cbffa0cf08 Fix for older composer version
+52bec4ded04bd7fee38b943ac0ab2a2a053705aa Building project via GithUb actions
+76c74c8829bdc725801c2417c5c7e585881b415b Add new 2021 sponsors
+01568c61aab62b5d0814619c8b1be3d4e0b504a9 V8.1
