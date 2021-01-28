@@ -1,3 +1,4 @@
+d287d60fde08af73f8c886980873615cd7c8056d Fix typo
 b66d85e15e4cdc81103e57c56e6969f8f3bc5269 Merge pull request #129 from aurelijusb/0x63
 2f813a482e96e7465e25a241d2851b4ab0a43c20 Run CI on all branches
 92b264ee0eb1b62ef9ad1d8055b65dd1e051577b Run CI on all branches
@@ -7,4 +8,3 @@ d00dd6019bb11d507ab68baba9d5748b087575da Run on pull requests
 2663ca4452a4a3e38b317afacf6830b57ecc1399 Fix branch names and titles
 5f059e6449f8ab4995bfc2d0b459524acf6affe3 Production ready
 6f6b1dcaa6a2ca78ebddf8d22fa5edbce68f6379 Commit changelog file
-53b6e67ac4644cd3150f80859b27d1edba339ddf Deploy HTML to GitHub pages
