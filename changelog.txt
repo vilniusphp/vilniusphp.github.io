@@ -1,3 +1,5 @@
+d8243c2faadd66764160548d25b5515d7b108bd8 Merge pull request #131 from vilniusphp/0x63-estina
+772dcdd02b810be22ea63c421beae777d917a008 0x63 Speaker from Estina
 3bbe4fe391a616081778868d3e1f3ec2a9a472ac Merge pull request #130 from vilniusphp/docs-improvements
 64c2a909e59874bc1c7712710fae705f949e9ca0 Fix docs: Real cause of failing GitHub actions
 0ee29ae808fb1bee8c12d6570548bbc1a8f3eda7 Docs: No CI on direct changes
@@ -6,5 +8,3 @@ b66d85e15e4cdc81103e57c56e6969f8f3bc5269 Merge pull request #129 from aurelijusb
 2f813a482e96e7465e25a241d2851b4ab0a43c20 Run CI on all branches
 92b264ee0eb1b62ef9ad1d8055b65dd1e051577b Run CI on all branches
 57fc2c0340f69a31fb9375cd1072796263ecc586 0x63 Aurelijus talk and TBA
-7d70ad636a6b09be3c60c71f4174b8fc61baeac0 Merge pull request #128 from aurelijusb/feature/github-actions
-d00dd6019bb11d507ab68baba9d5748b087575da Run on pull requests
