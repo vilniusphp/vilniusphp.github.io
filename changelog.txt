@@ -1,3 +1,4 @@
+330d387c5ac3630e698cf10f5e5efa273eded4d2 0x64: Updated speakers
 5a6f16cec88bf43e9935754068f94f67a7341893 Fix yaml
 a5f7fda870201fb30cb547988f23e4833d2ad0ab 0x64 meetup
 870d3dfa974aeca6ce33a312ae56e9355e95e6f3 0x63: updated title, added zoom url
@@ -7,4 +8,3 @@ d8243c2faadd66764160548d25b5515d7b108bd8 Merge pull request #131 from vilniusphp
 64c2a909e59874bc1c7712710fae705f949e9ca0 Fix docs: Real cause of failing GitHub actions
 0ee29ae808fb1bee8c12d6570548bbc1a8f3eda7 Docs: No CI on direct changes
 d287d60fde08af73f8c886980873615cd7c8056d Fix typo
-b66d85e15e4cdc81103e57c56e6969f8f3bc5269 Merge pull request #129 from aurelijusb/0x63
