@@ -1,3 +1,4 @@
+bd2f243efa8b5c30b9c4f754818807e5fd5afcf6 0x68: added speaker
 e7f2b6f73c170b1653593ce4f134ab5bc0acf27e Fix speaker's name
 6976955a8ac64243111be69f0d043f4fd714b0cf s/Tesonet/NordSec sponsor
 d51489ad029d795fe58e83f1b870559a44635e6e Oooopsie
@@ -7,4 +8,3 @@ ac0781088c7ea2be96bd34fb9293931bd79aa866 Announce speakers for 0x67 event
 e10faca71578452df4f5d3c51e255eb859f50f57 0x65: Final agenda
 4c952649932187d0ff75748dff8a90b889f08aed Merge pull request #132 from vilniusphp/0x65-h2g
 ffd49426a8b5ee92525bcec1f5ec93f733c15b00 0x65 Speaker: Audrius Bugas
-06cfb37b113d43d4e97f7c43e2829d60c14755fc 0x65
