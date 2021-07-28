@@ -1,3 +1,5 @@
+ab770bcf014689459e915a679f02e7c03fb4b1e2 BBQ party 0x69
+dfa74ab40cccaad78c963525eae552efa651ea17 Archive VilniusPHP 0x68
 697c03400cfe7919a7802bc1794bbccf2df2fadf Add more sponsors
 bd2f243efa8b5c30b9c4f754818807e5fd5afcf6 0x68: added speaker
 e7f2b6f73c170b1653593ce4f134ab5bc0acf27e Fix speaker's name
@@ -6,5 +8,3 @@ d51489ad029d795fe58e83f1b870559a44635e6e Oooopsie
 ac0781088c7ea2be96bd34fb9293931bd79aa866 Announce speakers for 0x67 event
 9c034217ee393964fb15cb42b809851813d5fc1d 102 kickoff
 7132f96451d5c6ff629ddb2edecabad50d1fd4d8 0x65: Removed postponed talk
-e10faca71578452df4f5d3c51e255eb859f50f57 0x65: Final agenda
-4c952649932187d0ff75748dff8a90b889f08aed Merge pull request #132 from vilniusphp/0x65-h2g
