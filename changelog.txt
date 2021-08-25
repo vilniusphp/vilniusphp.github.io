@@ -1,3 +1,4 @@
+e2a06cd345f12375699e6fcbb280a72c7f6ea134 Announce 0x70 event
 086036a762c08cefd7b2a62e8e6c75c3eff1c791 Announce 0x70 event
 ab770bcf014689459e915a679f02e7c03fb4b1e2 BBQ party 0x69
 dfa74ab40cccaad78c963525eae552efa651ea17 Archive VilniusPHP 0x68
@@ -7,4 +8,3 @@ e7f2b6f73c170b1653593ce4f134ab5bc0acf27e Fix speaker's name
 6976955a8ac64243111be69f0d043f4fd714b0cf s/Tesonet/NordSec sponsor
 d51489ad029d795fe58e83f1b870559a44635e6e Oooopsie
 ac0781088c7ea2be96bd34fb9293931bd79aa866 Announce speakers for 0x67 event
-9c034217ee393964fb15cb42b809851813d5fc1d 102 kickoff
