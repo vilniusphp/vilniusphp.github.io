@@ -1,3 +1,5 @@
+ed35e503ae31e3424189f9b18e31c356ff4ec798 Merge pull request #133 from vilniusphp/0x71
+f02f4c71116a091a8a88ea6323abc35a97215502 0x71 Initial event description
 c08f32998a71d8f52423a0964a3ae9f88431dfbf Estina rebrands to Boozt Technology Baltics
 6f031dbf6d2cfc81df2318a6965639e9cb5ca88a Add linkedin url
 b6bcb54db4db864eac7481ff8855f6d6c86dd984 Announce 0x70 event
@@ -6,5 +8,3 @@ e2a06cd345f12375699e6fcbb280a72c7f6ea134 Announce 0x70 event
 ab770bcf014689459e915a679f02e7c03fb4b1e2 BBQ party 0x69
 dfa74ab40cccaad78c963525eae552efa651ea17 Archive VilniusPHP 0x68
 697c03400cfe7919a7802bc1794bbccf2df2fadf Add more sponsors
-bd2f243efa8b5c30b9c4f754818807e5fd5afcf6 0x68: added speaker
-e7f2b6f73c170b1653593ce4f134ab5bc0acf27e Fix speaker's name
