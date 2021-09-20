@@ -1,3 +1,4 @@
+6dbb181509f44c704c1858ef50f3af8086fa8f61 Normalize Boozt logo size
 326ece494e143d80d402eacdb9460c2e72398191 Announce second speaker for 0x71 event
 ed35e503ae31e3424189f9b18e31c356ff4ec798 Merge pull request #133 from vilniusphp/0x71
 f02f4c71116a091a8a88ea6323abc35a97215502 0x71 Initial event description
@@ -7,4 +8,3 @@ b6bcb54db4db864eac7481ff8855f6d6c86dd984 Announce 0x70 event
 e2a06cd345f12375699e6fcbb280a72c7f6ea134 Announce 0x70 event
 086036a762c08cefd7b2a62e8e6c75c3eff1c791 Announce 0x70 event
 ab770bcf014689459e915a679f02e7c03fb4b1e2 BBQ party 0x69
-dfa74ab40cccaad78c963525eae552efa651ea17 Archive VilniusPHP 0x68
