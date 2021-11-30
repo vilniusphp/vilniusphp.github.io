@@ -1,3 +1,4 @@
+eedf8200a958ecf7dfd002e23482f6bd031541da Add description, rearrange order of talks
 1fd4fb46f33dd15b65453e7972ba10d4a62c3992 Add second speaker
 161f64fee729e98322d94a93037f3778279f5948 composer-setup.php just got an update
 9190550a9f0cebc1fc54105a79a8c2943e7aa9ed Merge pull request #134 from jbutkus/0x73/proposal-jbutkus
@@ -7,4 +8,3 @@ cb742bb52398c07ef9fff906df772ded6637c91f 0x72
 6dbb181509f44c704c1858ef50f3af8086fa8f61 Normalize Boozt logo size
 326ece494e143d80d402eacdb9460c2e72398191 Announce second speaker for 0x71 event
 ed35e503ae31e3424189f9b18e31c356ff4ec798 Merge pull request #133 from vilniusphp/0x71
-f02f4c71116a091a8a88ea6323abc35a97215502 0x71 Initial event description
