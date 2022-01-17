@@ -1,3 +1,4 @@
+91ee94a0d8ac7cec103e20c8f86aea81960b4202 Remove unnecessary link
 f5fde4d060adcc192bbe99118e355188f9d1eca0 Align logos a bit
 ab2bd73ab22de297061e5e9e8d04258c193913bc Updated logos
 c8cc9e1d2321f69b242e7debc28e79439928e9c0 Sponsors cleanup
@@ -7,4 +8,3 @@ c8cc9e1d2321f69b242e7debc28e79439928e9c0 Sponsors cleanup
 7a1efbccbe68010d27e0320d451d9317129218ca 0x74: 2nd speaker
 b3a61f7d170a9dd878c08b284611d748791ae39b Announce VilniusPHP 0x74
 eedf8200a958ecf7dfd002e23482f6bd031541da Add description, rearrange order of talks
-1fd4fb46f33dd15b65453e7972ba10d4a62c3992 Add second speaker
