@@ -1,3 +1,4 @@
+2ae91a7abb874b89fd03cd608b9cd69f51fe87e8 Replace tabs with spaces
 63e64637251d4f5471125ccf16cfb8cfdec30261 fix yaml
 7a1efbccbe68010d27e0320d451d9317129218ca 0x74: 2nd speaker
 b3a61f7d170a9dd878c08b284611d748791ae39b Announce VilniusPHP 0x74
@@ -7,4 +8,3 @@ eedf8200a958ecf7dfd002e23482f6bd031541da Add description, rearrange order of tal
 9190550a9f0cebc1fc54105a79a8c2943e7aa9ed Merge pull request #134 from jbutkus/0x73/proposal-jbutkus
 d0e37cee0426e19e2581701aed393da154729cf3 (0x73) Tabs to spaces
 384ee844dfe1024f2c096763f7007fb8fef4ab57 (0x73) Object Oriented Design Delusions
-cb742bb52398c07ef9fff906df772ded6637c91f 0x72
