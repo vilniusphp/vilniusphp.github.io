@@ -1,3 +1,4 @@
+46d09be70f6f1631b7b8cd64c4f548549aa423e0 purple is better than black
 586c4656acbd5a630a2626627dda513c03a6137e 0x75 event
 91ee94a0d8ac7cec103e20c8f86aea81960b4202 Remove unnecessary link
 f5fde4d060adcc192bbe99118e355188f9d1eca0 Align logos a bit
@@ -7,4 +8,3 @@ c8cc9e1d2321f69b242e7debc28e79439928e9c0 Sponsors cleanup
 2ae91a7abb874b89fd03cd608b9cd69f51fe87e8 Replace tabs with spaces
 63e64637251d4f5471125ccf16cfb8cfdec30261 fix yaml
 7a1efbccbe68010d27e0320d451d9317129218ca 0x74: 2nd speaker
-b3a61f7d170a9dd878c08b284611d748791ae39b Announce VilniusPHP 0x74
