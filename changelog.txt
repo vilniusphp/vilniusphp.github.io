@@ -1,3 +1,4 @@
+5abdada8c320e5d133f14b7783e6f52b62d73be7 0x76 event
 46d09be70f6f1631b7b8cd64c4f548549aa423e0 purple is better than black
 586c4656acbd5a630a2626627dda513c03a6137e 0x75 event
 91ee94a0d8ac7cec103e20c8f86aea81960b4202 Remove unnecessary link
@@ -7,4 +8,3 @@ c8cc9e1d2321f69b242e7debc28e79439928e9c0 Sponsors cleanup
 6c59499f927647d561c3fba66b3dc75ba85717ef Remove twitter
 2ae91a7abb874b89fd03cd608b9cd69f51fe87e8 Replace tabs with spaces
 63e64637251d4f5471125ccf16cfb8cfdec30261 fix yaml
-7a1efbccbe68010d27e0320d451d9317129218ca 0x74: 2nd speaker
