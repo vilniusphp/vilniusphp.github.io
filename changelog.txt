@@ -1,3 +1,4 @@
+1ab0c491647087ffcbec4134782b6de9363beb39 0x77: added 2nd speaker
 05d2fb0b927934e0de61d5cc1a12dff174522d78 0x77: speaker
 d454e6c6cd75fc538970d5399643502d8a7dc8a2 Announce event for the 2022 April
 5abdada8c320e5d133f14b7783e6f52b62d73be7 0x76 event
@@ -7,4 +8,3 @@ d454e6c6cd75fc538970d5399643502d8a7dc8a2 Announce event for the 2022 April
 f5fde4d060adcc192bbe99118e355188f9d1eca0 Align logos a bit
 ab2bd73ab22de297061e5e9e8d04258c193913bc Updated logos
 c8cc9e1d2321f69b242e7debc28e79439928e9c0 Sponsors cleanup
-6c59499f927647d561c3fba66b3dc75ba85717ef Remove twitter
