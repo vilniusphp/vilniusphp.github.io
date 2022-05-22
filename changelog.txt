@@ -1,3 +1,4 @@
+b0f2fcdc80fbe57868d4a59d4edcee55e599b195 Remove logos of expired sponsorships
 9599d8f892d9f0df887f889b582e591ccb9b3762 0x79 meetup
 f790a52098bed713b4c6e1381a9676f319f878b9 Fixed typo
 a7978b6bbfdb39a60dfa5d23c4993f787b35fb19 New composer, better composer?
@@ -7,4 +8,3 @@ a7978b6bbfdb39a60dfa5d23c4993f787b35fb19 New composer, better composer?
 d454e6c6cd75fc538970d5399643502d8a7dc8a2 Announce event for the 2022 April
 5abdada8c320e5d133f14b7783e6f52b62d73be7 0x76 event
 46d09be70f6f1631b7b8cd64c4f548549aa423e0 purple is better than black
-586c4656acbd5a630a2626627dda513c03a6137e 0x75 event
