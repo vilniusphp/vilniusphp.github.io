@@ -1,3 +1,4 @@
+1ff0deed4a7ec3b172f1c333a3537cbcc6006e63 Fix spot name
 e9a2b83a26ec539ac64c66f1a28a392964470b23 0x81 event
 6afc8afeda5f5d6b645edeb9597ae6f94a4cbadb 0x80 - it was so long since last live meetup
 0c556d8784faab492b5aac9f06f48ce6d40ca78f Build 0x80 gathering
@@ -7,4 +8,3 @@ b0f2fcdc80fbe57868d4a59d4edcee55e599b195 Remove logos of expired sponsorships
 9599d8f892d9f0df887f889b582e591ccb9b3762 0x79 meetup
 f790a52098bed713b4c6e1381a9676f319f878b9 Fixed typo
 a7978b6bbfdb39a60dfa5d23c4993f787b35fb19 New composer, better composer?
-3d35727bb2baf542f271e7243f4caa2660e6e1e2 0x78 meetup
