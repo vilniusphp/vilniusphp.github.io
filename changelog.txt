@@ -1,3 +1,4 @@
+792318f7c1b249624aba471c1fc0ef6ab6566f39 0x82: Moar speakers
 0213cb63eaa11bc0d7d96b9edccbfa4c42e733c5 Event 0x82
 1ff0deed4a7ec3b172f1c333a3537cbcc6006e63 Fix spot name
 e9a2b83a26ec539ac64c66f1a28a392964470b23 0x81 event
@@ -7,4 +8,3 @@ e9a2b83a26ec539ac64c66f1a28a392964470b23 0x81 event
 24c130641f1c04e8e4fe40f50b1053b7286ce076 Update descriptions for 0x79
 b0f2fcdc80fbe57868d4a59d4edcee55e599b195 Remove logos of expired sponsorships
 9599d8f892d9f0df887f889b582e591ccb9b3762 0x79 meetup
-f790a52098bed713b4c6e1381a9676f319f878b9 Fixed typo
