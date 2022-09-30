@@ -1,3 +1,4 @@
+ed2550311ffae127d4aaf32226601a7cc427f7e9 Meetup 0x83
 e4f694abf0ae5a2d2b1485098e00edf669d1862c Fix sponsor
 63543c6b77a5bd9f1a6514259410211266908a60 Update topic
 792318f7c1b249624aba471c1fc0ef6ab6566f39 0x82: Moar speakers
@@ -7,4 +8,3 @@ e9a2b83a26ec539ac64c66f1a28a392964470b23 0x81 event
 6afc8afeda5f5d6b645edeb9597ae6f94a4cbadb 0x80 - it was so long since last live meetup
 0c556d8784faab492b5aac9f06f48ce6d40ca78f Build 0x80 gathering
 187df848a3ba9b465c28208ae21363cbdd58b9da Added Kilo Health as sponsor
-24c130641f1c04e8e4fe40f50b1053b7286ce076 Update descriptions for 0x79
