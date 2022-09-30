@@ -1,3 +1,4 @@
+e4f694abf0ae5a2d2b1485098e00edf669d1862c Fix sponsor
 63543c6b77a5bd9f1a6514259410211266908a60 Update topic
 792318f7c1b249624aba471c1fc0ef6ab6566f39 0x82: Moar speakers
 0213cb63eaa11bc0d7d96b9edccbfa4c42e733c5 Event 0x82
@@ -7,4 +8,3 @@ e9a2b83a26ec539ac64c66f1a28a392964470b23 0x81 event
 0c556d8784faab492b5aac9f06f48ce6d40ca78f Build 0x80 gathering
 187df848a3ba9b465c28208ae21363cbdd58b9da Added Kilo Health as sponsor
 24c130641f1c04e8e4fe40f50b1053b7286ce076 Update descriptions for 0x79
-b0f2fcdc80fbe57868d4a59d4edcee55e599b195 Remove logos of expired sponsorships
