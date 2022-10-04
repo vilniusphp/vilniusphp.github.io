@@ -1,3 +1,4 @@
+f5c68535f3d457083920f8f76ceca37674bce9fd 2nd speaker
 e3bca13fe899ffad0c231ef23b4336fad9cd9b69 Yaml is a nightmare
 35078d05b0ee4375da0ccf60e6a541f3ee356bf1 Fix index
 ed2550311ffae127d4aaf32226601a7cc427f7e9 Meetup 0x83
@@ -7,4 +8,3 @@ e4f694abf0ae5a2d2b1485098e00edf669d1862c Fix sponsor
 0213cb63eaa11bc0d7d96b9edccbfa4c42e733c5 Event 0x82
 1ff0deed4a7ec3b172f1c333a3537cbcc6006e63 Fix spot name
 e9a2b83a26ec539ac64c66f1a28a392964470b23 0x81 event
-6afc8afeda5f5d6b645edeb9597ae6f94a4cbadb 0x80 - it was so long since last live meetup
