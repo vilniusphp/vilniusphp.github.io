@@ -1,3 +1,4 @@
+3115e9a3eab1a5b9de1e26ee8b8d6a1ae367c659 Add twoday as sponsor
 4fb74b194d7c9e1e6b2a4a93755005dd97343fc4 0x84
 f5c68535f3d457083920f8f76ceca37674bce9fd 2nd speaker
 e3bca13fe899ffad0c231ef23b4336fad9cd9b69 Yaml is a nightmare
@@ -7,4 +8,3 @@ e4f694abf0ae5a2d2b1485098e00edf669d1862c Fix sponsor
 63543c6b77a5bd9f1a6514259410211266908a60 Update topic
 792318f7c1b249624aba471c1fc0ef6ab6566f39 0x82: Moar speakers
 0213cb63eaa11bc0d7d96b9edccbfa4c42e733c5 Event 0x82
-1ff0deed4a7ec3b172f1c333a3537cbcc6006e63 Fix spot name
