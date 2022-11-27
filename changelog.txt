@@ -1,3 +1,4 @@
+dd8546c8700d853b3aac14ee997d97a860e5d5d2 Update speakers
 835fbd0b110327b6ae42f0230b5a1651db3ab02b Vilniusphp 10
 3115e9a3eab1a5b9de1e26ee8b8d6a1ae367c659 Add twoday as sponsor
 4fb74b194d7c9e1e6b2a4a93755005dd97343fc4 0x84
@@ -7,4 +8,3 @@ e3bca13fe899ffad0c231ef23b4336fad9cd9b69 Yaml is a nightmare
 ed2550311ffae127d4aaf32226601a7cc427f7e9 Meetup 0x83
 e4f694abf0ae5a2d2b1485098e00edf669d1862c Fix sponsor
 63543c6b77a5bd9f1a6514259410211266908a60 Update topic
-792318f7c1b249624aba471c1fc0ef6ab6566f39 0x82: Moar speakers
